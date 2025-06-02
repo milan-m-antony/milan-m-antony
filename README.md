@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/milan-m-antony.png" width="150" height="150" style="border-radius: 50%;" alt="Milan M Antony" />
+  <img src="https://github.com/milan-m-antony.png" width="150" height="150" style="border-radius: 50%; object-fit: cover;" alt="Milan M Antony" />
 </p>
 
 
