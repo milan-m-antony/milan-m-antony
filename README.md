@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/142754982?v=4" width="150" alt="Milan M Antony"/>
+  <img src="https://github.com/milan-m-antony.png" width="150" height="150" style="border-radius: 50%;" alt="Milan M Antony" />
 </p>
+
 
 <h1 align="center">Hi 👋, I'm Milan M Antony</h1>
 <h3 align="center">BCA Graduate | Azure Cloud Enthusiast | Developer from Kerala, India 🇮🇳</h3>
