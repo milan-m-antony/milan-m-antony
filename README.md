@@ -20,11 +20,13 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=milan-m-antony&label=Profile%20Views&color=blue&style=for-the-badge" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/milan-m-antony?style=for-the-badge&color=1E90FF&label=Followers" />
-  <img src="https://img.shields.io/github/stars/milan-m-antony?style=for-the-badge&color=FFD700&label=Stars" />
-  <img src="https://img.shields.io/github/repos/milan-m-antony?style=for-the-badge&color=32CD32&label=Repos" />
+  <img src="https://komarev.com/ghpvc/?username=milan-m-antony&label=Profile%20Views&color=blue&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/milan-m-antony?style=for-the-badge&color=1E90FF&label=Followers" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/milan-m-antony?style=for-the-badge&color=FFD700&label=Stars" alt="Stars" />
+
 </p>
+
+
 
 ---
 
