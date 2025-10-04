@@ -1,18 +1,29 @@
 <p align="center">
-  <img src="https://unavatar.io/github/milan-m-antony?size=150" style="border-radius:50%" alt="Milan M Antony"/>
+  <img src="https://unavatar.io/github/milan-m-antony?size=180" 
+       alt="Milan M Antony" 
+       style="border-radius: 50%; box-shadow: 0 4px 12px rgba(0,0,0,0.2);" />
 </p>
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Milan+M+Antony;Azure+Cloud+Enthusiast;BCA+Graduate+%7C+Developer;From+Kerala,+India+🇮🇳" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=1E90FF&center=true&vCenter=true&width=650&lines=Hi+👋,+I'm+Milan+M+Antony;Azure+Cloud+Enthusiast;BCA+Graduate+%7C+Developer;From+Kerala,+India+🇮🇳" alt="Typing SVG" />
   </a>
 </h1>
 
 <p align="center">
+  <a href="mailto:milanmantony@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://milan-m-antony.github.io/portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=milan-m-antony&label=Profile%20Views&color=blue&style=for-the-badge" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/milan-m-antony?style=for-the-badge&color=blue" />
-  <img src="https://img.shields.io/github/stars/milan-m-antony?style=for-the-badge&color=yellow" />
-  <img src="https://img.shields.io/github/repos/milan-m-antony?style=for-the-badge&color=green" />
+  <img src="https://img.shields.io/github/followers/milan-m-antony?style=for-the-badge&color=1E90FF&label=Followers" />
+  <img src="https://img.shields.io/github/stars/milan-m-antony?style=for-the-badge&color=FFD700&label=Stars" />
+  <img src="https://img.shields.io/github/repos/milan-m-antony?style=for-the-badge&color=32CD32&label=Repos" />
 </p>
 
 ---
