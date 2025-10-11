@@ -6,7 +6,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=1E90FF&center=true&vCenter=true&width=650&lines=Hi+👋,+I'm+Milan+M+Antony;Azure+Cloud+Enthusiast;BCA+Graduate+%7C+Developer;From+Kerala,+India+🇮🇳" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=1E90FF&center=true&vCenter=true&width=650&lines=Hi+👋,+I'm+Milan+M+Antony;Azure+Cloud+Enthusiast;Backend+Developer+%7C+Cloud+Engineer;Python+Developer+%7C+Linux+Expert;From+Kerala,+India+🇮🇳" alt="Typing SVG" />
   </a>
 </h1>
 
@@ -33,7 +33,7 @@
 ## 🧑‍💻 About Me  
 
 <p align="center">
-  ✨ Hi, I'm <b>Milan M Antony</b> – a <b>BCA Graduate (2024)</b> from Kerala, India 🇮🇳  
+  ✨ Hi, I'm <b>Milan M Antony</b> – a <b>BCA Graduate (2024)</b> from Kerala, India 🇮🇳 with 1+ year of experience  
   <br/><br/>
   🌱 Currently diving deep into <b>Azure Cloud Computing & Networking</b>  
   <br/>
@@ -58,6 +58,17 @@
   </a>
 </p>
 
+---
+
+## 🎯 Current Focus
+
+<p align="center">
+  🔹 Building cloud-native applications with <b>Azure services</b><br/>
+  🔹 Mastering <b>Infrastructure as Code (IaC)</b> with Terraform & ARM Templates<br/>
+  🔹 Developing automation scripts with <b>Python & PowerShell</b><br/>
+  🔹 Exploring <b>DevOps practices</b> and CI/CD pipelines<br/>
+  🔹 Contributing to <b>open-source projects</b>
+</p>
 
 ---
 ## 🚀 Tech Stack  
@@ -74,6 +85,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
   <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
 <p align="center">
@@ -87,7 +99,20 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</p>
+
+---
+
+## 💼 Key Highlights
+
+<p align="center">
+  ✅ <b>Cloud Solutions:</b> Designed and deployed scalable applications on Microsoft Azure<br/>
+  ✅ <b>Automation Expert:</b> Created Python & PowerShell scripts to automate workflows<br/>
+  ✅ <b>Backend Development:</b> Built robust APIs and backend services<br/>
+  ✅ <b>Linux Administration:</b> Experienced in system administration and configuration<br/>
+  ✅ <b>Open Source Contributor:</b> Active participant in the developer community
 </p>
 
 ---
@@ -103,11 +128,12 @@
 ## 📊 GitHub Analytics  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=milan-m-antony&show_icons=true&theme=tokyonight" alt="stats" />
-  <br/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=milan-m-antony&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=milan-m-antony&layout=compact&theme=tokyonight&langs_count=8" alt="top languages"/>
+</p>
+
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=milan-m-antony&theme=tokyonight" alt="streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=milan-m-antony&layout=compact&theme=tokyonight" alt="top languages"/>
 </p>
 
 ---
@@ -150,8 +176,12 @@
   <a href="https://milanmantonyportfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="mailto:milanmantony@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="http://www.linkedin.com/in/milanmantony"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
+<p align="center">
   <a href="https://www.instagram.com/milan_m_antony"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://www.facebook.com/share/1AX2krXu3t/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://github.com/milan-m-antony"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
