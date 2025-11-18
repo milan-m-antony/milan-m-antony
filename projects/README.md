@@ -1,3 +1,9 @@
+<!-- Breadcrumb -->
+**📍 Path:**  
+[🏠 Home](../README.md) / **📂 Projects**
+
+---
+
 <div align="center">
 
 # 🚀 Projects  
@@ -8,41 +14,39 @@ A curated list of my featured work.
 ---
 
 ## ⭐ Warm Bubble Chat  
-**Realtime chat app** built with:
+**Realtime chat platform** built with:
 - React  
 - Socket.IO  
 - Supabase  
-- Presence + Typing Indicators  
+- Realtime presence, typing indicators  
 - Ephemeral messages  
-- Online user system  
 
 🔗 Repo: https://github.com/milan-m-antony/warm-bubble-chat  
 
 ---
 
 ## ⭐ Portfolio Website  
-Clean, modern personal portfolio built using:
+Built with:
 - Next.js  
 - TailwindCSS  
-- Vercel hosting  
+- Vercel  
 
 🔗 Live: https://milanmantonyportfolio.vercel.app  
 
 ---
 
-## ⭐ Cloud & Supabase Tools  
-A collection of small tools and experiments using:
-- Supabase functions  
-- Cron system  
+## ⭐ Cloud Tools & Experiments  
+Tools made using:
+- Supabase Functions  
+- Cron jobs  
 - Realtime pipelines  
-- Cloud automation  
 
-🔗 Browse all projects on my GitHub page.
+Explore all projects on my GitHub.
 
 ---
 
 <div align="center">
-  
+
 ### 🔗 Back to Home  
 <a href="../README.md">🏠 Go to Homepage</a>
 
